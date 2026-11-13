@@ -86,7 +86,7 @@ Real missions are not won by one big decision. They are won (or lost) by many sm
 
 ## ⚡ Quick start
 
-**Play online (recommended):** https://usernaxaoa.github.io/HORIZON-710/
+**Play online (recommended):** https://usernaxaoa.github.io/HORIZON-710/index.html
 
 **Play locally:**
 
