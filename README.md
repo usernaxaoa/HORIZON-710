@@ -8,7 +8,7 @@
 
 [![Demo Video](https://img.shields.io/badge/🎥_DEMO_VIDEO-YouTube-ff0000?style=for-the-badge)](https://youtu.be/REPLACE_WITH_YOUR_VIDEO_ID)
 
-**Made by Team Digonto · Daffodil Institute of Information Technology · Cumilla, Bangladesh**
+**Made by Team Digonto · Daffodil Institute of Information Technology · Bangladesh**
 
 [Play](https://usernaxaoa.github.io/HORIZON-710/) · [Video](https://youtu.be/REPLACE_WITH_YOUR_VIDEO_ID) · [How to play](#-how-to-play) · [The four Sols](#-the-four-sols) · [NASA data](#-nasa-data-behind-the-game) · [Use of AI](#-use-of-ai-transparency)
 
