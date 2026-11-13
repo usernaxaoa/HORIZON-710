@@ -402,7 +402,7 @@ If you find a bug, please open an **Issue** and tell us your browser, device and
 | Name | Role |
 |---|---|
 | **Mohammad Mehadi Hasan** | Team lead |
-| **Amena Begum** | Team member |
+| **Amena Begum** | Developer |
 | **MD. Nafiz Mahmud Shawon** | Researcher |
 
 Built for the **NASA Space Apps Challenge 2026**, Cumilla Local Event.
