@@ -8,13 +8,6 @@
 
 [![Demo Video](https://img.shields.io/badge/🎥_DEMO_VIDEO-YouTube-ff0000?style=for-the-badge)](https://youtu.be/REPLACE_WITH_YOUR_VIDEO_ID)
 
-![NASA Space Apps 2026](https://img.shields.io/badge/NASA_Space_Apps-2026-0b3d91?style=flat-square)
-![Challenge](https://img.shields.io/badge/Challenge-Junior_Astronaut_Mission_Trainer-6f42c1?style=flat-square)
-![Single File](https://img.shields.io/badge/Build-Single_HTML_file-2ea44f?style=flat-square)
-![Three.js](https://img.shields.io/badge/3D-Three.js_r128-black?style=flat-square)
-![No Install](https://img.shields.io/badge/Install-None-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
-
 **Made by Team Digonto · Daffodil Institute of Information Technology · Cumilla, Bangladesh**
 
 [Play](https://usernaxaoa.github.io/HORIZON-710/) · [Video](https://youtu.be/REPLACE_WITH_YOUR_VIDEO_ID) · [How to play](#-how-to-play) · [The four Sols](#-the-four-sols) · [NASA data](#-nasa-data-behind-the-game) · [Use of AI](#-use-of-ai-transparency)
