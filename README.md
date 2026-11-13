@@ -6,7 +6,6 @@
 
 **Every space mission is a chain of trade-offs, and the consequences of a bad call can arrive days later.**
 
-[![Play Now](https://img.shields.io/badge/▶_PLAY_NOW-HORIZON_710-e8702a?style=for-the-badge)](https://usernaxaoa.github.io/HORIZON-710/)
 [![Demo Video](https://img.shields.io/badge/🎥_DEMO_VIDEO-YouTube-ff0000?style=for-the-badge)](https://youtu.be/REPLACE_WITH_YOUR_VIDEO_ID)
 
 ![NASA Space Apps 2026](https://img.shields.io/badge/NASA_Space_Apps-2026-0b3d91?style=flat-square)
