@@ -228,9 +228,9 @@ Then choose:
 
 ## 🖼️ Screenshots
 
-| Pre-launch: crew and cargo | Launch |
-|:---:|:---:|
-| ![Cargo screen](screenshots/01-prelaunch.png) | ![Launch](screenshots/02-launch.png) |
+| Launch |
+|:------:|
+| ![Launch](screenshots/02-launch.png) |
 
 | Sol 1: dust on the solar panels | Sol 2: build the greenhouse |
 |:---:|:---:|
